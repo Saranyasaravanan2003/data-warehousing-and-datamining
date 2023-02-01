@@ -1,0 +1,3 @@
+print(getwd())
+data <- read.csv("file.csv")
+print(data)
